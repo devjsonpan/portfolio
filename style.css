@@ -462,6 +462,16 @@ body {
     border-style: dashed;
 }
 
+.courseLink {
+    color: rgba(173, 216, 230);
+    text-decoration: none;
+    font-weight: 600; 
+}
+
+.courseLink:hover {
+    text-decoration: underline;
+}
+
 .contactSection {
     padding: 5rem 2rem;
     background: var(--card);
